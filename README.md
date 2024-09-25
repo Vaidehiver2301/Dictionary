@@ -2,3 +2,4 @@
 A simple dictionary which uses an API server to fetch the meanings of the entered word.
 
 # Link
+https://prodiction.netlify.app/
