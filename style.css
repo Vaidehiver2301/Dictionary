@@ -1,0 +1,27 @@
+
+div{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+input{
+    line-height: 20px;
+    background-color: rgb(218, 240, 248);
+    border: 0.1px solid rgb(218, 240, 248);
+    width: 80%;
+    top: 30vh;
+    border-radius: 20px;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rgba(170, 96, 239, 0.834);
+    /* color: rgb(223, 223, 223); */
+}
+p{
+    margin-left: 60px;
+}
